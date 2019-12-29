@@ -1,0 +1,23 @@
+{
+  "name": "gh-actions-foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatums/gh-actions-foo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatums/gh-actions-foo/issues"
+  },
+  "homepage": "https://github.com/tatums/gh-actions-foo#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
